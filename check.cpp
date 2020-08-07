@@ -60,12 +60,12 @@ int main()
      }
     else
     {
-        cout<<"error opening";
+        cout<<"Error Opening";
     }
-    cout<<"SUM OF ARRAY = "<< add(A)<<endl;
-    cout<<"Multiplication OF ARRAY = "<< mult(A)<<endl;
-    cout<<"Largest No. OF ARRAY = "<< largest(A)<<endl;
-    cout<<"Minimum No. OF ARRAY = "<< Min(A)<<endl;
+    cout<<"SUM Of Array = "<< add(A)<<endl;
+    cout<<"Multiplication Of Array = "<< mult(A)<<endl;
+    cout<<"Largest No. Of Array = "<< largest(A)<<endl;
+    cout<<"Minimum No. Of Array = "<< Min(A)<<endl;
     fin.close();
    return 0;
 }
