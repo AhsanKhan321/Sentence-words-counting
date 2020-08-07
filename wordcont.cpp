@@ -15,7 +15,7 @@ int main()
         j++;
     }
     }
-    cout<<"Total Words = "<<j<<endl;
+    cout<<"Total Words Count = "<<j<<endl;
     return 0;
 
 }
